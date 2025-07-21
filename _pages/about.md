@@ -21,4 +21,4 @@ I'm passionate about combining computational tools and material innovation to sh
 
 🧪 Check out my [publications](/publications/), [CV](/cv/), and [projects](/projects/) to learn more.
 
-📫 Want to connect? Feel free to reach out via [email](mailto:your-email@example.com) or on [LinkedIn](https://www.linkedin.com/in/your-linkedin/).
+📫 Want to connect? Feel free to reach out on [LinkedIn](https://www.linkedin.com/in/muhamad-amani/).
