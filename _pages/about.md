@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "👋 Hello!"
+title: "👋 Hello!I'm **Muhamad Amani**!"
 author_profile: true
 redirect_from: 
   - /about/
@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 
-👋 Hello! I'm **Muhamad Amani**, a PhD candidate at TU Delft in Aerospace Engineering.  
+A PhD candidate at TU Delft in Aerospace Engineering.  
 I specialize in **AI-driven design** and **sustainable materials for additive manufacturing**.
 
 🔍 My research lies at the intersection of:
