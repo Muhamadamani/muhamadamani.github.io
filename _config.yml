@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Muhamad Amani"
+title                    : "🧑🏻‍🚀"
 title_separator          : "-"
 name                     : &name "Muhamad Amani"
 description              : &description "A PhD candidate at TU Delft in Aerospace Engineering."
@@ -23,7 +23,7 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Muhamad Amani"
+  name             : ""
   pronouns         : # example: "she/her"  
   bio              : "A PhD candidate at TU Delft in Aerospace Engineering."
   location         : "Delft"
