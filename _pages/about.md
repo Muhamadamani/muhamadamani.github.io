@@ -1,6 +1,7 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "👋 Hello! I'm **Muhamad Amani**, a PhD candidate at TU Delft in Aerospace Engineering.  
+I specialize in AI-driven design and sustainable materials for additive manufacturing. "
 author_profile: true
 redirect_from: 
   - /about/
