@@ -1,14 +1,14 @@
 {
   "basics": {
-    "name": "Muhamad Amani",
-    "email": "m.amani[at]tudelft.nl",
+    "name": "Your Sidebar Name",
+    "email": "none@example.org",
     "phone": "",
-    "website": "https://muhamadamani.github.io",
-    "summary": "PhD candidate at TU Delft",
+    "website": "https://academicpages.github.io",
+    "summary": "Currently employed at Red Brick University. Short biography for the left-hand sidebar",
     "location": {
       "address": "",
       "postalCode": "",
-      "city": "Delft",
+      "city": "Earth",
       "countryCode": "US",
       "region": ""
     },
