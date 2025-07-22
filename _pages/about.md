@@ -19,6 +19,6 @@ I specialize in **AI-driven design** and **sustainable materials for additive ma
 
 I'm passionate about combining computational tools and material innovation to shape the future of sustainable engineering.
 
-🧪 Check out my [publications](/publications/), [CV](/cv/), and [projects](/projects/) to learn more.
+<!-- 🧪 Check out my [publications](/publications/), [CV](/cv/), and [projects](/projects/) to learn more. -->
 
 📫 Want to connect? Feel free to reach out on [LinkedIn](https://www.linkedin.com/in/muhamad-amani/).
