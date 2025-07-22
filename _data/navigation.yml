@@ -29,8 +29,8 @@ main:
   # - title: "CV"
   #   url: /cv-json/
 
-  - title: "Notes"
-    url: /BeyondLivingFibers/
+  # - title: "Notes"
+  #   url: /BeyondLivingFibers/
     
   # - title: "Guide"
   #   url: /markdown/
